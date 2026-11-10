@@ -1,0 +1,126 @@
+[
+    {
+        "position": 1,
+        "query": "allbirds.com",
+        "queryType": "domain",
+        "advertiserId": "AR01371945870127267841",
+        "advertiserName": "Allbirds Inc",
+        "creativeId": "CR02410131008503414785",
+        "format": "text",
+        "domain": "allbirds.com",
+        "firstShown": "2026-04-07T15:44:46.000Z",
+        "lastShown": "2026-10-10T16:50:18.000Z",
+        "daysShown": 163,
+        "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/14549710068258611529",
+        "imageWidth": 348,
+        "imageHeight": 503,
+        "previewUrl": null,
+        "regionFilter": "anywhere",
+        "adUrl": "https://adstransparency.google.com/advertiser/AR01371945870127267841/creative/CR02410131008503414785?region=anywhere",
+        "advertiserUrl": "https://adstransparency.google.com/advertiser/AR01371945870127267841?region=anywhere",
+        "scrapedAt": "2026-10-10T17:18:19.423Z"
+    },
+    {
+        "position": 11,
+        "query": "allbirds.com",
+        "queryType": "domain",
+        "advertiserId": "AR01371945870127267841",
+        "advertiserName": "Allbirds Inc",
+        "creativeId": "CR04508276176740941825",
+        "format": "video",
+        "domain": "allbirds.com",
+        "firstShown": "2025-06-02T21:57:27.000Z",
+        "lastShown": "2026-10-10T06:44:58.000Z",
+        "daysShown": 441,
+        "imageUrl": null,
+        "imageWidth": null,
+        "imageHeight": null,
+        "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4311800535&creativeId=755942691063&uiFeatures=12,54&adGroupId=181233758100&versionId=15&assets=%3DH4sIAAAAAAAAAONy5OLkOPL-zMT5jAJsXBwcx_pn7jUQ0OTi5Fi1fG3DYkYBDRBz3YyNlzgFmLk4OZZDmIxcnBx9y3rWPeMUYAEA3ZO6d0MAAAA&sig=ACiVB_wbX0q1drLKYO5rSwKld8rIG-HguQ&htmlParentId=fletch-render-11230853691358239306&responseCallback=fletchCallback11230853691358239306",
+        "regionFilter": "anywhere",
+        "adUrl": "https://adstransparency.google.com/advertiser/AR01371945870127267841/creative/CR04508276176740941825?region=anywhere",
+        "advertiserUrl": "https://adstransparency.google.com/advertiser/AR01371945870127267841?region=anywhere",
+        "scrapedAt": "2026-10-10T17:18:19.940Z"
+    },
+    {
+        "position": 45,
+        "query": "allbirds.com",
+        "queryType": "domain",
+        "advertiserId": "AR01371945870127267841",
+        "advertiserName": "Allbirds Inc",
+        "creativeId": "CR10908757559317889025",
+        "format": "text",
+        "domain": "allbirds.com",
+        "firstShown": "2025-03-12T19:33:40.000Z",
+        "lastShown": "2026-10-10T00:53:48.000Z",
+        "daysShown": 534,
+        "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/18199488945461523136",
+        "imageWidth": 348,
+        "imageHeight": 321,
+        "previewUrl": null,
+        "regionFilter": "anywhere",
+        "adUrl": "https://adstransparency.google.com/advertiser/AR01371945870127267841/creative/CR10908757559317889025?region=anywhere",
+        "advertiserUrl": "https://adstransparency.google.com/advertiser/AR01371945870127267841?region=anywhere",
+        "scrapedAt": "2026-10-10T17:19:23.957Z",
+        "topic": null,
+        "variantsCount": 2,
+        "variants": [
+            {
+                "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/18199488945461523136",
+                "previewUrl": null,
+                "width": 348,
+                "height": 321
+            },
+            {
+                "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/8468202034987102549",
+                "previewUrl": null,
+                "width": 348,
+                "height": 174
+            }
+        ],
+        "regionsCount": 5,
+        "regionCountries": [
+            "US",
+            "HR",
+            "MX",
+            "IS",
+            "SI"
+        ],
+        "regions": [
+            {
+                "country": "US",
+                "regionCode": 2840,
+                "firstShown": null,
+                "lastShown": "2026-10-09",
+                "impressionsMin": null,
+                "impressionsMax": null,
+                "platforms": []
+            },
+            {
+                "country": "HR",
+                "regionCode": 2191,
+                "firstShown": "2025-04-17",
+                "lastShown": "2026-08-31",
+                "impressionsMin": null,
+                "impressionsMax": 1000,
+                "platforms": [
+                    {
+                        "platform": "search",
+                        "impressionsMin": null,
+                        "impressionsMax": 1000
+                    }
+                ]
+            },
+            {
+                "country": "MX",
+                "regionCode": 2484,
+                "firstShown": null,
+                "lastShown": "2026-08-19",
+                "impressionsMin": null,
+                "impressionsMax": null,
+                "platforms": []
+            }
+        ],
+        "euImpressionsMin": 0,
+        "euImpressionsMax": 3000
+    }
+]
